@@ -22,7 +22,7 @@ V večini primerov je najbolj praktičen tip `int`. Za predstavitev največjih �
 
 Dejanski razpon števil glede na posamezen tip je v Javi fiksen, kar pomeni, da arhitekturna vrsta procesorja nanje ne vpliva. Tako smo pri uporabi naših programov na različnih platformah varni, saj nam ni potrebno skrbeti kaj se zgodi, če zaženemo program na sistemih s 16-bitnim ali 32-bitnim procesorjem. Pri nekaterih drugih programskih jezikih je velikost podatkovnega tipa namreč pogojena z vrsto arhitekture.
 
-Pri zapisu števil si lahko pomagamo s predponami in priponami:
+Pri zapisu števil si lahko pomagamo, s predponami in priponami:
 
 - za števila tipa `long` uporabimo pripono `L` ali `l`, na primer: `4000000000L`
 - za šestnajstiška števila uporabimo predpono `0x` ali `0X`, na primer: `0xABCD`
